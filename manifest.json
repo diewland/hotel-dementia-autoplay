@@ -1,7 +1,7 @@
 {
     "name": "Hotel de mentía Auto play",
     "version": "1.0.0",
-    "description": "https://hoteldementia.io/visual-novels",
+    "description": "Autoplay tool for Hoteldementia Novel website",
     "author": "poringbom",
     "permissions": [
         "activeTab",
