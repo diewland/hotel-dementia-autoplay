@@ -1,7 +1,7 @@
 {
     "name": "Hotel de mentía Auto play",
     "version": "1.0.0",
-    "description": "An automatic play tool for Hoteldementia Novel website allows users to automatically progress through the story, making it more convenient and accessible.",
+    "description": "An Autoplay tool for Hoteldementia Novel website allows users to automatically progress through the story without click.",
     "author": "poringbom",
     "permissions": [
         "activeTab",
